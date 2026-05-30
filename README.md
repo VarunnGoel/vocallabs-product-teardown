@@ -1,5 +1,5 @@
 # Vocallabs.ai — Product Teardown
-**Product Intern Assignment · May 2026 · Prepared by Varun, DTU**
+**Product Intern Assignment**
 
 > 5 sharpest feedbacks across product pillars, based on hands-on use of the Vocallabs website, app, and API docs — benchmarked against Bolna, Vapi, Sarvam, Gnani, and Retell.
 
